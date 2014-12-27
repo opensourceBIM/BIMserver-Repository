@@ -3,7 +3,7 @@
     {
       name: "BCF",
       namespace: "http://www.buildingsmart-tech.org/specifications/bcf-releases",
-      url: "http://www.buildingsmart-tech.org/specifications/bcf-releases,
+      url: "http://www.buildingsmart-tech.org/specifications/bcf-releases",
       description: "The BIM Collaboration Format (BCF) is an open file XML format that supports workflow communication in BIM processes.",
       type: "TXT"
     }
