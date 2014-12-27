@@ -3,6 +3,7 @@
     {
       name: "Example Service",
       identifier: "ex1",
+      provider: "BIMserver",
       description: "This is an example service",
       notificationProtocol: "JSON",
       trigger: "NEW_REVISION",
