@@ -1,0 +1,22 @@
+{
+  services: [
+    {
+      name: "Example Service",
+      identifier: "ex1",
+      description: "This is an example service",
+      notificationProtocol: "JSON",
+      trigger: "NEW_REVISION",
+      url: "http://test.example.org",
+      companyUrl: "http://www.bimserver.org",
+      tokenUrl: null,
+      newProfileUrl: "",
+      providerName: "",
+      rights: {
+        readRevision: true,
+        readExtendedData: null,
+        writeRevision: true,
+        writeExtendedData: null
+      }
+    }
+  ]
+}
