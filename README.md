@@ -22,3 +22,7 @@ To be implemented, but the idea is to make plugins available here as well.
 # Model Checker
 
 Model Checkers are special plugins that can validate a model. To be implemented as well
+
+# How to get your services etc... listed
+
+Send us a pull-request, or request access to the repository
