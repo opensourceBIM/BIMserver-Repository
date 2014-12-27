@@ -7,7 +7,7 @@ With this repository, we hope to make it easier for people to discover and publi
 
 # Services
 
-Services are pieces of logic, usually triggered by changes on a BIMserver. Services can be advertised here.
+Services are pieces of logic, usually triggered by changes on a BIMserver. Services can be advertised here. There is a little more documentation on Services [here](https://github.com/opensourceBIM/BIMserver/wiki/Writing-a-remote-service).
 
 # Extended Data Schemas
 
