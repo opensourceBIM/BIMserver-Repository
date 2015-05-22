@@ -6,6 +6,13 @@
       url: "http://www.buildingsmart-tech.org/specifications/bcf-releases",
       description: "The BIM Collaboration Format (BCF) is an open file XML format that supports workflow communication in BIM processes.",
       type: "TXT"
+    },
+    {
+      name: "LOD CSV",
+      namespace: "http://bimserver.org/lodcsv",
+      url: "http://bimserver.org/lodcsv",
+      description: "Store LOD information in a CSV format",
+      type: "TXT"
     }
   ]
 }
