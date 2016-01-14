@@ -2,6 +2,7 @@
   "plugins": [{
     "id": "org.bimserver.binaryserializers",
     "maven": {
+      "defaultrepository": "http://central.maven.org/maven2",
       "groupId": "org.opensourcebim",
       "artifactId": "BinarySerializers"
     }
