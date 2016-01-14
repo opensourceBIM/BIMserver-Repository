@@ -1,9 +1,9 @@
 {
   [{
-    id: "org.bimserver.binaryserializers",
-    maven: {
-      groupId: "org.opensourcebim",
-      artifactId: "BinarySerializers"
+    "id": "org.bimserver.binaryserializers",
+    "maven": {
+      "groupId": "org.opensourcebim",
+      "artifactId": "BinarySerializers"
     }
   }]
 }
