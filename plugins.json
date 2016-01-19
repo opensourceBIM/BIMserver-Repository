@@ -1,10 +1,75 @@
 {
   "plugins": [{
-    "id": "org.bimserver.binaryserializers",
     "maven": {
       "defaultrepository": "http://central.maven.org/maven2",
       "groupId": "org.opensourcebim",
       "artifactId": "BinarySerializers"
+    }
+  }, {
+    "maven": {
+      "defaultrepository": "http://central.maven.org/maven2",
+      "groupId": "org.opensourcebim",
+      "artifactId": "IfcEngine"
+    }
+  }, {
+    "maven": {
+      "defaultrepository": "http://central.maven.org/maven2",
+      "groupId": "org.opensourcebim",
+      "artifactId": "IfcOpenShellPlugin"
+    }
+  }, {
+    "maven": {
+      "defaultrepository": "http://central.maven.org/maven2",
+      "groupId": "org.opensourcebim",
+      "artifactId": "JavaModelChecker"
+    }
+  }, {
+    "maven": {
+      "defaultrepository": "http://central.maven.org/maven2",
+      "groupId": "org.opensourcebim",
+      "artifactId": "JavaQueryEngine"
+    }
+  }, {
+    "maven": {
+      "defaultrepository": "http://central.maven.org/maven2",
+      "groupId": "org.opensourcebim",
+      "artifactId": "Mergers"
+    }
+  }, {
+    "maven": {
+      "defaultrepository": "http://central.maven.org/maven2",
+      "groupId": "org.opensourcebim",
+      "artifactId": "Collada"
+    }
+  }, {
+    "maven": {
+      "defaultrepository": "http://central.maven.org/maven2",
+      "groupId": "org.opensourcebim",
+      "artifactId": "CityGML"
+    }
+  }, {
+    "maven": {
+      "defaultrepository": "http://central.maven.org/maven2",
+      "groupId": "org.opensourcebim",
+      "artifactId": "ClashDetection"
+    }
+  }, {
+    "maven": {
+      "defaultrepository": "http://central.maven.org/maven2",
+      "groupId": "org.opensourcebim",
+      "artifactId": "Charting"
+    }
+  }, {
+    "maven": {
+      "defaultrepository": "http://central.maven.org/maven2",
+      "groupId": "org.opensourcebim",
+      "artifactId": "BIMviews"
+    }
+  }, {
+    "maven": {
+      "defaultrepository": "http://central.maven.org/maven2",
+      "groupId": "org.opensourcebim",
+      "artifactId": "BimQL"
     }
   }]
 }
