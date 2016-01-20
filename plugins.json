@@ -69,6 +69,12 @@
     "maven": {
       "defaultrepository": "http://central.maven.org/maven2",
       "groupId": "org.opensourcebim",
+      "artifactId": "IfcPlugins"
+    }
+  }, {
+    "maven": {
+      "defaultrepository": "http://central.maven.org/maven2",
+      "groupId": "org.opensourcebim",
       "artifactId": "BimQL"
     }
   }]
