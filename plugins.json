@@ -75,6 +75,12 @@
     "maven": {
       "defaultrepository": "http://central.maven.org/maven2",
       "groupId": "org.opensourcebim",
+      "artifactId": "demoplugins"
+    }
+  }, {
+    "maven": {
+      "defaultrepository": "http://central.maven.org/maven2",
+      "groupId": "org.opensourcebim",
       "artifactId": "bimql"
     }
   }]
