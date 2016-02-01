@@ -60,10 +60,22 @@
       "artifactId": "charting"
     }
   }, {
-    "maven": {
-      "defaultrepository": "http://central.maven.org/maven2",
+    "github": {
+      "repository": "https://github.com/opensourceBIM/bimvie.ws/releases",
       "groupId": "org.opensourcebim",
       "artifactId": "bimviews"
+    }
+  }, {
+    "github": {
+      "repository": "https://github.com/opensourceBIM/BIMsurfer/releases",
+      "groupId": "org.opensourcebim",
+      "artifactId": "bimsurfer"
+    }
+  }, {
+    "github": {
+      "repository": "https://github.com/opensourceBIM/BIMserver-JavaScript-API/releases",
+      "groupId": "org.opensourcebim",
+      "artifactId": "javascriptapi"
     }
   }, {
     "maven": {
