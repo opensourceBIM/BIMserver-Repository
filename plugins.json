@@ -61,19 +61,19 @@
     }
   }, {
     "github": {
-      "repository": "https://github.com/opensourceBIM/bimvie.ws/releases",
+      "repository": "https://github.com/opensourceBIM/bimvie.ws",
       "groupId": "org.opensourcebim",
       "artifactId": "bimviews"
     }
   }, {
     "github": {
-      "repository": "https://github.com/opensourceBIM/BIMsurfer/releases",
+      "repository": "https://github.com/opensourceBIM/BIMsurfer",
       "groupId": "org.opensourcebim",
       "artifactId": "bimsurfer"
     }
   }, {
     "github": {
-      "repository": "https://github.com/opensourceBIM/BIMserver-JavaScript-API/releases",
+      "repository": "https://github.com/opensourceBIM/BIMserver-JavaScript-API",
       "groupId": "org.opensourcebim",
       "artifactId": "javascriptapi"
     }
