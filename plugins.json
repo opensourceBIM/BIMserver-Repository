@@ -75,7 +75,7 @@
     "maven": {
       "defaultrepository": "http://central.maven.org/maven2",
       "groupId": "org.opensourcebim",
-      "artifactId": "javascriptapi"
+      "artifactId": "bimserverapi"
     }
   }, {
     "maven": {
