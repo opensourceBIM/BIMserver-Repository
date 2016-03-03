@@ -95,5 +95,11 @@
       "groupId": "org.opensourcebim",
       "artifactId": "bimql"
     }
+  }, {
+    "maven": {
+      "defaultrepository": "http://central.maven.org/maven2",
+      "groupId": "org.opensourcebim",
+      "artifactId": "cesiumloader"
+    }
   }]
 }
