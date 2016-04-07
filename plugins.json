@@ -101,5 +101,11 @@
       "groupId": "org.opensourcebim",
       "artifactId": "cesiumloader"
     }
+  }, {
+    "maven": {
+      "defaultrepository": "http://central.maven.org/maven2",
+      "groupId": "org.opensourcebim",
+      "artifactId": "gltf"
+    }
   }]
 }
