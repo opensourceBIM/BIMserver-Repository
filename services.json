@@ -26,7 +26,7 @@
       description: "This is a test service",
       notificationProtocol: "JSON",
       trigger: "NEW_REVISION",
-      url: "http://localhost:80/oauth/register",
+      url: "http://localhost/oauth/register",
       companyUrl: "http://www.bimserver.org",
       tokenUrl: null,
       newProfileUrl: "",
