@@ -1,25 +1,6 @@
 {
   services: [
     {
-      name: "Example Service",
-      identifier: "ex1",
-      provider: "BIMserver",
-      description: "This is an example service",
-      notificationProtocol: "JSON",
-      trigger: "NEW_REVISION",
-      url: "http://test.example.org",
-      companyUrl: "http://www.bimserver.org",
-      tokenUrl: null,
-      newProfileUrl: "",
-      providerName: "BIMserver",
-      rights: {
-        readRevision: true,
-        readExtendedData: null,
-        writeRevision: true,
-        writeExtendedData: null
-      }
-    },
-    {
       name: "Test Service",
       identifier: "test",
       provider: "BIMserver",
