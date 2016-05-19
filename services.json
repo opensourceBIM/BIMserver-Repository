@@ -11,7 +11,7 @@
       companyUrl: "http://www.bimserver.org",
       tokenUrl: null,
       newProfileUrl: "",
-      providerName: "",
+      providerName: "BIMserver",
       rights: {
         readRevision: true,
         readExtendedData: null,
@@ -30,7 +30,7 @@
       companyUrl: "http://www.bimserver.org",
       tokenUrl: null,
       newProfileUrl: "",
-      providerName: "",
+      providerName: "BIMserver",
       rights: {
         readRevision: true,
         readExtendedData: null,
