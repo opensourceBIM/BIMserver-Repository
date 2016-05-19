@@ -29,6 +29,8 @@
       url: "http://localhost/oauth/register",
       companyUrl: "http://www.bimserver.org",
       tokenUrl: null,
+      registerUrl: "http://localhost/oauth/register",
+      authorizeUrl: "http://localhost/api/authz",
       newProfileUrl: "",
       providerName: "BIMserver",
       rights: {
