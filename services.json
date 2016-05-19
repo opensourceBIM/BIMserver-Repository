@@ -26,7 +26,7 @@
       description: "This is a test service",
       notificationProtocol: "JSON",
       trigger: "NEW_REVISION",
-      url: "http://localhost:80",
+      url: "http://localhost:80/api/authz",
       companyUrl: "http://www.bimserver.org",
       tokenUrl: null,
       newProfileUrl: "",
