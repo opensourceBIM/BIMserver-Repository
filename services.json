@@ -18,6 +18,25 @@
         writeRevision: true,
         writeExtendedData: null
       }
+    },
+    {
+      name: "Test Service",
+      identifier: "test",
+      provider: "BIMserver",
+      description: "This is a test service",
+      notificationProtocol: "JSON",
+      trigger: "NEW_REVISION",
+      url: "http://localhost:80",
+      companyUrl: "http://www.bimserver.org",
+      tokenUrl: null,
+      newProfileUrl: "",
+      providerName: "",
+      rights: {
+        readRevision: true,
+        readExtendedData: null,
+        writeRevision: true,
+        writeExtendedData: null
+      }
     }
   ]
 }
