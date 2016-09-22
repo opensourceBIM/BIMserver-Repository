@@ -2,26 +2,8 @@
   services: [
     {
       name: "Test Service",
-      identifier: "test",
-      provider: "BIMserver",
-      description: "This is a test service",
-      notificationProtocol: "JSON",
-      inputs: ["http://www.buildingsmart-tech.org/specifications/ifc-releases/ifc2x3-tc1-release"],
-      outputs: ["http://extend.bimserver.org/validationreport"],
-      trigger: "NEW_REVISION",
-      url: "http://localhost/api",
-      companyUrl: "http://www.bimserver.org",
-      tokenUrl: null,
-      registerUrl: "http://localhost/oauth/register",
-      authorizeUrl: "http://localhost/api/authz",
-      newProfileUrl: "",
-      providerName: "BIMserver",
-      rights: {
-        readRevision: true,
-        readExtendedData: null,
-        writeRevision: true,
-        writeExtendedData: null
-      }
+      inputs: ["ifc2x3tc1"],
+      outputs: ["bcf2.0"]
     }
   ]
 }
