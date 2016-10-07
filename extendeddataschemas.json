@@ -4,27 +4,22 @@
       name: "IFC_STEP_2X3TC1",
       contentType: "application/ifc",
       url: "http://www.buildingsmart-tech.org/specifications/ifc-releases/ifc2x3-tc1-release",
-      description: ""
+      description: "Industry Foundation Classes version 2x3TC1 (STEP)"
     }, {
       name: "IFC_STEP_4",
       contentType: "application/ifc",
       url: "http://www.buildingsmart-tech.org/specifications/ifc-releases/ifc4-release",
-      description: ""
+      description: "Industry Foundation Classes version 4 (STEP)"
     }, {
       name: "IFC_XML_2x3TC1",
       contentType: "application/ifcxml",
       url: "http://www.buildingsmart-tech.org/specifications/ifcxml-releases/ifcxml2x3-release/summary",
-      description: ""
+      description: "Industry Foundation Classes version 2x3TC1 (XML)"
     }, {
       name: "IFC_XML_4",
       contentType: "application/ifcxml",
       url: "http://www.buildingsmart-tech.org/specifications/ifcxml-releases/ifcxml4-release/ifcxml4-release-summary",
-      description: ""
-    }, {
-      name: "IFC_STEP_2X3TC1",
-      contentType: "application/ifc",
-      url: "http://www.buildingsmart-tech.org/specifications/ifc-releases/ifc2x3-tc1-release",
-      description: ""
+      description: "Industry Foundation Classes version 4 (XML)"
     }, {
       name: "IFC_JSON_2x3TC1",
       contentType: "application/json",
