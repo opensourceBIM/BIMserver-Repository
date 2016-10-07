@@ -72,7 +72,7 @@
       description: ""
     }, {
       name: "BINARY_GEOMETRY_6",
-      contentType: "",
+      contentType: "binarygeometry",
       url: "",
       description: ""
     }, {
