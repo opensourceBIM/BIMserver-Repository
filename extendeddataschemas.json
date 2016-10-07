@@ -80,6 +80,21 @@
       contentType: "application/gml",
       url: "https://portal.opengeospatial.org/files/?artifact_id=47842",
       description: ""
+    }, {
+      name: "3D_VIS_JSON_1.0",
+      contentType: "application/json",
+      url: "https://github.com/opensourceBIM/BIMserver-Repository/wiki/3D-Visualization-Effects",
+      description: ""
+    }, {
+      name: "LOD_CSV_1.0",
+      contentType: "text/csv",
+      url: "	https://github.com/opensourceBIM/BIMserver-Repository/wiki/LOD-CSV",
+      description: ""
+    }, {
+      name: "VALIDATION_JSON_1.0",
+      contentType: "application/json",
+      url: "https://github.com/opensourceBIM/BIMserver-Repository/wiki/Validation-Report",
+      description: ""
     }
   ]
 }
