@@ -1,18 +1,90 @@
 {
   extendeddataschemas: [
     {
-      name: "BCF",
-      namespace: "http://www.buildingsmart-tech.org/specifications/bcf-releases",
-      url: "http://www.buildingsmart-tech.org/specifications/bcf-releases",
-      description: "The BIM Collaboration Format (BCF) is an open file XML format that supports workflow communication in BIM processes.",
-      type: "TXT"
-    },
-    {
-      name: "LOD CSV",
-      namespace: "http://bimserver.org/lodcsv",
-      url: "http://bimserver.org/lodcsv",
-      description: "Store LOD information in a CSV format",
-      type: "TXT"
+      name: "IFC_STEP_2X3TC1",
+      contentType: "application/ifc",
+      url: "http://www.buildingsmart-tech.org/specifications/ifc-releases/ifc2x3-tc1-release",
+      description: ""
+    }, {
+      name: "IFC_STEP_4",
+      contentType: "application/ifc",
+      url: "http://www.buildingsmart-tech.org/specifications/ifc-releases/ifc4-release",
+      description: ""
+    }, {
+      name: "IFC_XML_2x3TC1",
+      contentType: "application/ifcxml",
+      url: "http://www.buildingsmart-tech.org/specifications/ifcxml-releases/ifcxml2x3-release/summary",
+      description: ""
+    }, {
+      name: "IFC_XML_4",
+      contentType: "application/ifcxml",
+      url: "http://www.buildingsmart-tech.org/specifications/ifcxml-releases/ifcxml4-release/ifcxml4-release-summary",
+      description: ""
+    }, {
+      name: "IFC_STEP_2X3TC1",
+      contentType: "application/ifc",
+      url: "http://www.buildingsmart-tech.org/specifications/ifc-releases/ifc2x3-tc1-release",
+      description: ""
+    }, {
+      name: "IFC_JSON_2x3TC1",
+      contentType: "application/json",
+      url: "",
+      description: ""
+    }, {
+      name: "IFC_JSON_4",
+      contentType: "application/json",
+      url: "",
+      description: ""
+    }, {
+      name: "IFC_JSON_GEOM_2x3TC1",
+      contentType: "application/ifc",
+      url: "",
+      description: ""
+    }, {
+      name: "IFC_JSON_GEOM_4",
+      contentType: "	application/json",
+      url: "",
+      description: ""
+    }, {
+      name: "BCF_ZIP_1.0",
+      contentType: "application/zip",
+      url: "http://www.buildingsmart-tech.org/specifications/bcf-releases/bcfxml-v1",
+      description: ""
+    }, {
+      name: "BCF_ZIP_2.0",
+      contentType: "application/zip",
+      url: "https://github.com/BuildingSMART/BCF-XML",
+      description: ""
+    }, {
+      name: "GLTF_1.0",
+      contentType: "model/gltf+json",
+      url: "http://www.buildingsmart-tech.org/specifications/ifc-releases/ifc2x3-tc1-release",
+      description: ""
+    }, {
+      name: "GLTF_BIN_1.0",
+      contentType: "model/gltf.binary",
+      url: "http://www.buildingsmart-tech.org/specifications/ifc-releases/ifc2x3-tc1-release",
+      description: ""
+    }, {
+      name: "COLLADA_1.5",
+      contentType: "model/vnd.collada+xml",
+      url: "https://www.khronos.org/files/collada_spec_1_5.pdf",
+      description: ""
+    }, {
+      name: "KMZ_2.2.0",
+      contentType: "application/vnd.google-earth.kml+xml .kml",
+      url: "http://schemas.opengis.net/kml/2.2.0/",
+      description: ""
+    }, {
+      name: "BINARY_GEOMETRY_6",
+      contentType: "",
+      url: "",
+      description: ""
+    }, {
+      name: "CITYGML_2.0.0",
+      contentType: "application/gml",
+      url: "https://portal.opengeospatial.org/files/?artifact_id=47842",
+      description: ""
     }
   ]
 }
