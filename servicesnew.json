@@ -1,9 +1,15 @@
 {
-  services: [
+  "services": [
     {
-      name: "Test Service",
-      inputs: ["ifc2x3tc1"],
-      outputs: ["bcf2.0"]
+      "name": "Fake clashdetection service",
+      "description": "Fake clashdetection service",
+      "provider": "Provider",
+      "inputs": ["IFC_JSON_2x3TC1", "IFC_JSON_4"],
+      "outputs": ["BCF_ZIP_1.0", "BCF_ZIP_2.0"],
+      "resourceUrl": "https://test.logic-labs.nl/services/clashdetection.php",
+      "authorizationUrl": "https://test.logic-labs.nl/authorize.php",
+      "registerUrl": "https://test.logic-labs.nl/register.php",
+      "tokenUrl": "https://test.logic-labs.nl/token.php" 
     }
   ]
 }
