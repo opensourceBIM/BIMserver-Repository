@@ -16,7 +16,7 @@
       "description": "Fake IFC returning  service",
       "provider": "Provider",
       "inputs": ["IFC_STEP_2x3TC1", "IFC_STEP_4"],
-      "outputs": ["IFC_STEP_2x3TC1", "IFC_STEP_2x3TC1"],
+      "outputs": ["IFC_STEP_2x3TC1", "IFC_STEP_4"],
       "resourceUrl": "https://test.logic-labs.nl/services/returnifc.php",
       "authorizationUrl": "https://test.logic-labs.nl/authorize.php",
       "registerUrl": "https://test.logic-labs.nl/register.php",
