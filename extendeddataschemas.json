@@ -95,6 +95,11 @@
       contentType: "application/json",
       url: "https://github.com/opensourceBIM/BIMserver-Repository/wiki/Validation-Report",
       description: ""
+    }, {
+      name: "3D_INFO_EXCEL_1.0",
+      contentType: "application/excel",
+      url: "",
+      description: "3D information like the amount of triangles etcetera in an excel file"
     }
   ]
 }
