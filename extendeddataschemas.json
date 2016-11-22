@@ -41,32 +41,32 @@
       url: "",
       description: ""
     }, {
-      name: "BCF_ZIP_1.0",
+      name: "BCF_ZIP_1_0",
       contentType: "application/zip",
       url: "http://www.buildingsmart-tech.org/specifications/bcf-releases/bcfxml-v1",
       description: ""
     }, {
-      name: "BCF_ZIP_2.0",
+      name: "BCF_ZIP_2_0",
       contentType: "application/zip",
       url: "https://github.com/BuildingSMART/BCF-XML",
       description: ""
     }, {
-      name: "GLTF_1.0",
+      name: "GLTF_1_0",
       contentType: "model/gltf+json",
       url: "http://www.buildingsmart-tech.org/specifications/ifc-releases/ifc2x3-tc1-release",
       description: ""
     }, {
-      name: "GLTF_BIN_1.0",
+      name: "GLTF_BIN_1_0",
       contentType: "model/gltf.binary",
       url: "http://www.buildingsmart-tech.org/specifications/ifc-releases/ifc2x3-tc1-release",
       description: ""
     }, {
-      name: "COLLADA_1.5",
+      name: "COLLADA_1_5",
       contentType: "model/vnd.collada+xml",
       url: "https://www.khronos.org/files/collada_spec_1_5.pdf",
       description: ""
     }, {
-      name: "KMZ_2.2.0",
+      name: "KMZ_2_2_0",
       contentType: "application/vnd.google-earth.kml+xml .kml",
       url: "http://schemas.opengis.net/kml/2.2.0/",
       description: ""
@@ -76,27 +76,27 @@
       url: "",
       description: ""
     }, {
-      name: "CITYGML_2.0.0",
+      name: "CITYGML_2_0_0",
       contentType: "application/gml",
       url: "https://portal.opengeospatial.org/files/?artifact_id=47842",
       description: ""
     }, {
-      name: "3D_VIS_JSON_1.0",
+      name: "VIS_3D_JSON_1_0",
       contentType: "application/json",
       url: "https://github.com/opensourceBIM/BIMserver-Repository/wiki/3D-Visualization-Effects",
       description: ""
     }, {
-      name: "LOD_CSV_1.0",
+      name: "LOD_CSV_1_0",
       contentType: "text/csv",
       url: "	https://github.com/opensourceBIM/BIMserver-Repository/wiki/LOD-CSV",
       description: ""
     }, {
-      name: "VALIDATION_JSON_1.0",
+      name: "VALIDATION_JSON_1_0",
       contentType: "application/json",
       url: "https://github.com/opensourceBIM/BIMserver-Repository/wiki/Validation-Report",
       description: ""
     }, {
-      name: "3D_INFO_EXCEL_1.0",
+      name: "INFO_3D_EXCEL_1_0",
       contentType: "application/excel",
       url: "",
       description: "3D information like the amount of triangles etcetera in an excel file"
