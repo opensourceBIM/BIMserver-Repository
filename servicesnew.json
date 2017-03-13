@@ -21,6 +21,14 @@
       "authorizationUrl": "https://test.logic-labs.nl/authorize.php",
       "registerUrl": "https://test.logic-labs.nl/register.php",
       "tokenUrl": "https://test.logic-labs.nl/token.php" 
+    },
+    {
+      "name": "Testing local service with no auth",
+      "description": "Testing local service with no auth",
+      "provider": "Provider",
+      "inputs": ["IFC_STEP_2x3TC1"],
+      "outputs": ["VALIDATION_JSON_1_0"],
+      "resourceUrl": "http://localhost:5050"
     }
   ]
 }
