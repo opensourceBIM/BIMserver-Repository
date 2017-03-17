@@ -11,7 +11,7 @@
         "registerUrl": "https://test.logic-labs.nl/register.php",
         "tokenUrl": "https://test.logic-labs.nl/token.php" 
       },
-      "resourceUrl": "https://test.logic-labs.nl/services/clashdetection.php",
+      "resourceUrl": "https://test.logic-labs.nl/services/clashdetection.php"
     },
     {
       "name": "Fake IFC returning  service",
@@ -24,7 +24,7 @@
         "registerUrl": "https://test.logic-labs.nl/register.php",
         "tokenUrl": "https://test.logic-labs.nl/token.php" 
       },
-      "resourceUrl": "https://test.logic-labs.nl/services/returnifc.php",
+      "resourceUrl": "https://test.logic-labs.nl/services/returnifc.php"
     },
     {
       "name": "Testing local service with no auth",
