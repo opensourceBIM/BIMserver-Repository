@@ -19,7 +19,7 @@
       "provider": "Provider",
       "inputs": ["IFC_STEP_2x3TC1", "IFC_STEP_4"],
       "outputs": ["IFC_STEP_2x3TC1", "IFC_STEP_4"],
-      "oauth: {
+      "oauth": {
         "authorizationUrl": "https://test.logic-labs.nl/authorize.php",
         "registerUrl": "https://test.logic-labs.nl/register.php",
         "tokenUrl": "https://test.logic-labs.nl/token.php" 
