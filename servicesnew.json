@@ -33,11 +33,11 @@
       "inputs": ["IFC_STEP_2x3TC1", "IFC_STEP_4"],
       "outputs": ["IFC_STEP_2x3TC1", "IFC_STEP_4"],
       "oauth": {
-        "authorizationUrl": "https://localhost:8081/oauth/authorize",
-        "registerUrl": "https://localhost:8081/oauth/register",
-        "tokenUrl": "https://localhost:8081/oauth/access" 
+        "authorizationUrl": "http://localhost:8081/oauth/authorize",
+        "registerUrl": "http://localhost:8081/oauth/register",
+        "tokenUrl": "http://localhost:8081/oauth/access" 
       },
-      "resourceUrl": "https://localhost:8081/services"
+      "resourceUrl": "http://localhost:8081/services"
     },
     {
       "name": "Testing local service with no auth",
