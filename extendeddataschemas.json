@@ -100,6 +100,10 @@
       contentType: "application/excel",
       url: "",
       description: "3D information like the amount of triangles etcetera in an excel file"
-    }
+    }, {
+      name: "UNSTRUCTURED_UTF8_TEXT_1_0",
+      contentType: "text/plain",
+      url: "",
+      description: "Generic text"
   ]
 }
