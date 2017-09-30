@@ -105,5 +105,6 @@
       contentType: "text/plain",
       url: "",
       description: "Generic text"
+    }
   ]
 }
