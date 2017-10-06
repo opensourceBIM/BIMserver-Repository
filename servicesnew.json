@@ -4,7 +4,7 @@
       "name": "Fake clashdetection service",
       "description": "Fake clashdetection service",
       "provider": "Provider",
-      "inputs": ["IFC_JSON_2x3TC1", "IFC_JSON_4"],
+      "inputs": ["IFC_JSON_2X3TC1", "IFC_JSON_4"],
       "outputs": ["BCF_ZIP_1_0", "BCF_ZIP_2_0"],
       "oauth": {
         "authorizationUrl": "https://test.logic-labs.nl/authorize.php",
@@ -17,8 +17,8 @@
       "name": "Fake IFC returning  service",
       "description": "Fake IFC returning  service",
       "provider": "Provider",
-      "inputs": ["IFC_STEP_2x3TC1", "IFC_STEP_4"],
-      "outputs": ["IFC_STEP_2x3TC1", "IFC_STEP_4"],
+      "inputs": ["IFC_STEP_2X3TC1", "IFC_STEP_4"],
+      "outputs": ["IFC_STEP_2X3TC1", "IFC_STEP_4"],
       "oauth": {
         "authorizationUrl": "https://test.logic-labs.nl/authorize.php",
         "registerUrl": "https://test.logic-labs.nl/register.php",
@@ -30,8 +30,8 @@
       "name": "Example running on BIMserver as ServiceRunner",
       "description": "Example running on BIMserver as ServiceRunner",
       "provider": "Provider",
-      "inputs": ["IFC_STEP_2x3TC1", "IFC_STEP_4"],
-      "outputs": ["IFC_STEP_2x3TC1", "IFC_STEP_4"],
+      "inputs": ["IFC_STEP_2X3TC1", "IFC_STEP_4"],
+      "outputs": ["IFC_STEP_2X3TC1", "IFC_STEP_4"],
       "oauth": {
         "authorizationUrl": "http://localhost:8081/oauth/authorize",
         "registerUrl": "http://localhost:8081/oauth/register",
@@ -43,7 +43,7 @@
       "name": "Testing local service with no auth",
       "description": "Testing local service with no auth",
       "provider": "Provider",
-      "inputs": ["IFC_STEP_2x3TC1"],
+      "inputs": ["IFC_STEP_2X3TC1"],
       "outputs": ["VALIDATION_JSON_1_0"],
       "resourceUrl": "http://localhost:5050"
     }
