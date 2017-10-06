@@ -1,0 +1,9 @@
+{
+  "active": [
+    {
+      "name": "2nd local BIMserver",
+      "description": "2nd local BIMserver",
+      "listUrl": "http://localhost:8081/servicelist"
+    }
+  ]
+}
