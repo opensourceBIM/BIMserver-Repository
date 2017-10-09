@@ -4,6 +4,10 @@
       "name": "2nd local BIMserver",
       "description": "2nd local BIMserver",
       "listUrl": "http://localhost:8081/servicelist"
+    }, {
+      "name": "Experimentalserver.com",
+      "description": "Experimental BIMserver",
+      "listUrl": "https://thisisanexperimentalserver.com/servicelist"
     }
   ]
 }
