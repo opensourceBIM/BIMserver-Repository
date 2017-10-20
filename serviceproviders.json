@@ -1,9 +1,17 @@
 {
   "active": [
     {
-      "name": "2nd local BIMserver",
-      "description": "2nd local BIMserver",
+      "name": "Default localdev BIMserver",
+      "description": "Default localdev BIMserver",
+      "listUrl": "http://localhost:8080/servicelist"
+    }, {
+      "name": "2nd localdev BIMserver",
+      "description": "2nd localdev BIMserver",
       "listUrl": "http://localhost:8081/servicelist"
+    }, {
+      "name": "Default JAR runner",
+      "description": "Default JAR runner",
+      "listUrl": "http://localhost:8082/servicelist"
     }, {
       "name": "Experimentalserver.com",
       "description": "Experimental BIMserver",
