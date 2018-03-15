@@ -37,7 +37,7 @@
       "description": ""
     }, {
       "name": "IFC_JSON_GEOM_4",
-      "contentType": "	application/json",
+      "contentType": "application/json",
       "url": "",
       "description": ""
     }, {
@@ -88,7 +88,7 @@
     }, {
       "name": "LOD_CSV_1_0",
       "contentType": "text/csv",
-      "url": "	https://github.com/opensourceBIM/BIMserver-Repository/wiki/LOD-CSV",
+      "url": "https://github.com/opensourceBIM/BIMserver-Repository/wiki/LOD-CSV",
       "description": ""
     }, {
       "name": "VALIDATION_JSON_1_0",
