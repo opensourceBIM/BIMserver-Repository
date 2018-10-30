@@ -105,6 +105,11 @@
       "contentType": "text/plain",
       "url": "",
       "description": "Generic text"
+    }, {
+      "name": "CLASHDETECTION_RESULT_JSON_1_0",
+      "contentType": "application/json",
+      "url": "",
+      "description": "Generic text"
     }
   ]
 }
