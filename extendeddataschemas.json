@@ -110,6 +110,11 @@
       "contentType": "application/json",
       "url": "",
       "description": "Generic text"
+    }, {
+      "name": "IFC_ANALYTICS_JSON_1_0",
+      "contentType": "application/json",
+      "url": "",
+      "description": "IFC Analytics Result"
     }
   ]
 }
