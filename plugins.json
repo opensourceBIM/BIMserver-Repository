@@ -141,6 +141,12 @@
     "maven": {
       "defaultrepository": "http://central.maven.org/maven2",
       "groupId": "org.opensourcebim",
+      "artifactId": "ifcanalytics"
+    }
+  }, {
+    "maven": {
+      "defaultrepository": "http://central.maven.org/maven2",
+      "groupId": "org.opensourcebim",
       "artifactId": "fixedfileservice"
     }
   }]
