@@ -147,7 +147,7 @@
     "maven": {
       "defaultrepository": "http://central.maven.org/maven2",
       "groupId": "org.opensourcebim",
-      "artifactId": "bcfaggregationservice"
+      "artifactId": "bcfaggregation"
     }
   }, {
     "maven": {
