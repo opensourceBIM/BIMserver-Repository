@@ -106,6 +106,16 @@
       "url": "",
       "description": "Generic text"
     }, {
+      "name": "GEOMETRY_GENERATION_REPORT_JSON_1_1",
+      "contentType": "application/json",
+      "url": "",
+      "description": "Geometry generation report as JSON"
+    }, {
+      "name": "GEOMETRY_GENERATION_REPORT_HTML_1_1",
+      "contentType": "text/html",
+      "url": "",
+      "description": "Geometry generation report as HTML"
+    }, {
       "name": "CLASHDETECTION_RESULT_JSON_1_0",
       "contentType": "application/json",
       "url": "",
