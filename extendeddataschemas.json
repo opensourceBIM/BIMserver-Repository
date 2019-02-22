@@ -11,6 +11,11 @@
       "url": "http://www.buildingsmart-tech.org/specifications/ifc-releases/ifc4-release",
       "description": "Industry Foundation Classes version 4 (STEP)"
     }, {
+      "name": "IFC_STEP",
+      "contentType": "application/ifc",
+      "url": "http://www.buildingsmart-tech.org/specifications/ifc-releases",
+      "description": "Industry Foundation Classes, undefined version (STEP)"
+    }, {
       "name": "IFC_XML_2X3TC1",
       "contentType": "application/ifcxml",
       "url": "http://www.buildingsmart-tech.org/specifications/ifcxml-releases/ifcxml2x3-release/summary",
