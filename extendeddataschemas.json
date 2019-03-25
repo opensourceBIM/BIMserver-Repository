@@ -56,6 +56,11 @@
       "url": "https://github.com/BuildingSMART/BCF-XML",
       "description": ""
     }, {
+      "name": "BCF_ZIP_2_1",
+      "contentType": "application/zip",
+      "url": "https://github.com/BuildingSMART/BCF-XML",
+      "description": ""
+    }, {
       "name": "GLTF_1_0",
       "contentType": "model/gltf+json",
       "url": "http://www.buildingsmart-tech.org/specifications/ifc-releases/ifc2x3-tc1-release",
@@ -89,6 +94,21 @@
       "name": "VIS_3D_JSON_1_0",
       "contentType": "application/json",
       "url": "https://github.com/opensourceBIM/BIMserver-Repository/wiki/3D-Visualization-Effects",
+      "description": ""
+    }, {
+      "name": "GUID_PROPERTIES_DATASET_0_0_1",
+      "contentType": "application/json",
+      "url": "",
+      "description": ""
+    }, {
+      "name": "MPG_OBJECT_JSON_0_0_3",
+      "contentType": "application/json",
+      "url": "",
+      "description": ""
+    }, {
+      "name": "MPG_RESULTS_JSON_0_0_1",
+      "contentType": "application/json",
+      "url": "",
       "description": ""
     }, {
       "name": "LOD_CSV_1_0",
